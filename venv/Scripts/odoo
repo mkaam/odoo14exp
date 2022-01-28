@@ -1,0 +1,7 @@
+#!C:\GitHub\odoo14exp\venv\Scripts\python.exe
+# EASY-INSTALL-DEV-SCRIPT: 'odoo==14.0','odoo'
+__requires__ = 'odoo==14.0'
+__import__('pkg_resources').require('odoo==14.0')
+__file__ = 'C:\\GitHub\\odoo14exp\\setup\\odoo'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
