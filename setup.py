@@ -54,7 +54,8 @@ setup(
         'werkzeug == 1.0.1',
         'xlsxwriter',
         'xlwt',
-        'pypiwin32'
+        'pypiwin32',
+        'chardet',
     ],
     python_requires='>=3.6',
     extras_require={
